@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-theme-gtk3"
-description = "SigmaOS subsystem component for theme-gtk3"
+description = "GTK3 theme engine"
 version = "0.1.0"
 tier = 4
 
